@@ -2,7 +2,7 @@
 Jupyter Notebooks I used to find a particular in an old photo by gathering all images of churches in the area in question. **May be useful and adapted to all kinds of similar problems.**
 
 ## My Particular Problem
-The left photo below shows my grandparents' car in front of a church on a family trip to Lake Garda, Italy in 1973. I wanted to now the exact location, but googling for the church for days did not yield any results.
+The left photo below shows my grandparents' car in front of a church on a family trip to Lake Garda, Italy in 1973. I wanted to know the exact location, but googling for the church for days did not yield any results.
 
 <p align="middle">
     <img src="the_church.png" width="300" />
